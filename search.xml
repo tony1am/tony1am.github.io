@@ -2,7 +2,7 @@
 <search>
   <entry>
     <title>机器学习的常用模型评估指标</title>
-    <url>/blog/2020/03/21/Evaluating-Machine-Learning-Models/</url>
+    <url>//blog/2020/03/21/Evaluating-Machine-Learning-Models/</url>
     <content><![CDATA[<h2 id="font-color-chocolate常见的机器学习问题font"><a class="markdownIt-Anchor" href="#font-color-chocolate常见的机器学习问题font"></a> <font color = 'chocolate'>常见的机器学习问题</font></h2>
 <p>一般来说，许多机器学习问题可以分别归入以下几类：</p>
 <ul>
@@ -163,7 +163,7 @@
   </entry>
   <entry>
     <title>Hello World</title>
-    <url>/blog/2020/03/18/hello-world/</url>
+    <url>//blog/2020/03/18/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p>
 <a id="more"></a>
 <h2 id="quick-start"><a class="markdownIt-Anchor" href="#quick-start"></a> Quick Start</h2>
