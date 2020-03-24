@@ -21,13 +21,15 @@
 <ol>
 <li>
 <p>数值计算与统计</p>
-<pre><code> - numpy、pandas、scipy
-</code></pre>
+<ul>
+<li>numpy、pandas、scipy</li>
+</ul>
 </li>
 <li>
 <p>可视化</p>
-<pre><code>- matplotlib、seaborn
-</code></pre>
+<ul>
+<li>matplotlib、seaborn</li>
+</ul>
 </li>
 </ol>
 <h3 id="font-color-chocolate分析操作font"><a class="markdownIt-Anchor" href="#font-color-chocolate分析操作font"></a> <font color = 'chocolate'>分析操作</font></h3>
